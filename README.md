@@ -1,0 +1,2 @@
+# Polling Application
+This app is based on Python-Django framework. It contains basic voting and result panel. It also have an Admin page functionality, where user can create a superuser and add, delete or edit the polling qestions, votes and voting option, directly from front end. 
